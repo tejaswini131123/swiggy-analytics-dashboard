@@ -20,11 +20,17 @@ The goal is to transform raw food delivery data into actionable insights that im
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Primary data visualization platform for building interactive reports and dashboards.
+
 📂 Power Query – Used for data cleaning, preprocessing, and transformation.
+
 🧠 DAX (Data Analysis Expressions) – Created calculated measures, KPIs, and dynamic aggregations.
+
 🗃️ Data Modeling – Relationships established between sales, customer, and regional datasets for cross-filtering and advanced analysis.
+
 🐍 Python – Used for additional preprocessing and analytical support.
+
 📁 File Formats – .pbix for development and .png for dashboard previews/screenshots.
+
 📂 Data Source
 
 Source: Sample food delivery sales dataset inspired by Swiggy operations.
