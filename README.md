@@ -5,7 +5,7 @@ A dynamic and interactive analytics dashboard built to explore food delivery bus
 
 The Swiggy Analytics Dashboard is a visually engaging business intelligence solution designed to analyze food delivery operations and customer trends. It enables users to monitor KPIs such as total sales, average ratings, order counts, food category preferences, city-wise sales, and weekly/monthly performance trends.
 
-This dashboard is ideal for:
+**This dashboard is ideal for:**
 
 Food delivery businesses
 Restaurant aggregators
@@ -19,19 +19,19 @@ The goal is to transform raw food delivery data into actionable insights that im
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Primary data visualization platform for building interactive reports and dashboards.
+📊 **Power BI Desktop** – Primary data visualization platform for building interactive reports and dashboards.
 
-📂 Power Query – Used for data cleaning, preprocessing, and transformation.
+📂 **Power Query** – Used for data cleaning, preprocessing, and transformation.
 
-🧠 DAX (Data Analysis Expressions) – Created calculated measures, KPIs, and dynamic aggregations.
+🧠 **DAX (Data Analysis Expressions)** – Created calculated measures, KPIs, and dynamic aggregations.
 
-🗃️ Data Modeling – Relationships established between sales, customer, and regional datasets for cross-filtering and advanced analysis.
+🗃️ **Data Modeling** – Relationships established between sales, customer, and regional datasets for cross-filtering and advanced analysis.
 
-🐍 Python – Used for additional preprocessing and analytical support.
+🐍 **Python** – Used for additional preprocessing and analytical support.
 
-📁 File Formats – .pbix for development and .png for dashboard previews/screenshots.
+📁 **File Formats** – .pbix for development and .png for dashboard previews/screenshots.
 
-📂 Data Source
+📂 **Data Source**
 
 Source: Sample food delivery sales dataset inspired by Swiggy operations.
 
@@ -47,8 +47,7 @@ Order value metrics
 
 The data is structured to simulate real-world food delivery business operations and analytical scenarios.
 
-✨ Features / Highlights
-🔍 Business Problem
+🔍 **Business Problem**
 
 Food delivery platforms generate massive amounts of transactional and customer data daily. However, businesses often struggle to quickly identify:
 
@@ -69,21 +68,24 @@ Monitor KPIs like sales, ratings, and order trends.
 Identify high-performing food categories and regions.
 Enable interactive filtering by day, month, year, and category.
 Support data-driven operational and marketing decisions.
-📊 Walkthrough of Key Visuals
-🔹 KPI Cards (Top Section)
+
+🔹 **KPI Cards** 
 
 Displays high-level business metrics:
 
 💰 Total Sales: ₹7.98M
+
 ⭐ Average Rating: 4.32
+
 📝 Rating Count: 0.84M
+
 📦 Total Orders: 29.72K
+
 🛒 Average Order Value: ₹280.01
 
 These KPIs provide an instant snapshot of overall business health.
 
-🔹 Day & Month Selection Panel
-
+🔹 **Day & Month Selection Panel**
 Interactive slicers allow users to filter the entire dashboard by:
 
 Days of the week
@@ -93,7 +95,7 @@ Food categories
 
 This enables detailed time-based performance analysis.
 
-🔹 Monthly Sales Trends (Line Chart)
+🔹 **Monthly Sales Trends** 
 
 Shows month-wise revenue growth and fluctuations across the year.
 
@@ -101,7 +103,7 @@ Insights:
 Identifies seasonal demand patterns.
 Helps track business growth over time.
 Detects high-performing months.
-🔹 Sales Based on Food Type (Donut Chart)
+🔹 **Sales Based on Food Type** 
 
 Compares sales contribution between:
 
@@ -110,14 +112,14 @@ Compares sales contribution between:
 Insights:
 Understand customer food preferences.
 Optimize menu and promotional strategies.
-🔹 Weekly Sales Trends (Bar Chart)
+🔹**Weekly Sales Trends**
 
 Visualizes sales distribution across weekdays.
 
 Insights:
 Peak order activity observed during weekends.
 Useful for staffing and delivery planning.
-🔹 Top 5 City Sales (Horizontal Bar Chart)
+🔹**Top 5 City Sales**
 
 Highlights the highest revenue-generating cities such as:
 
@@ -129,7 +131,7 @@ Bengaluru
 Insights:
 Helps identify strong regional markets.
 Supports localized marketing campaigns.
-🔹 Quarterly Performance Table
+🔹 **Quarterly Performance Table**
 
 Displays quarter-wise:
 
@@ -139,27 +141,28 @@ Orders
 Insights:
 Tracks operational consistency.
 Helps compare quarterly business performance.
-🔹 Weekly Sales Distribution (Column Chart)
+🔹 **Weekly Sales Distribution**
 
 Shows detailed order/sales distribution patterns across multiple weeks.
 
-Insights:
+**Insights:**
 Detects sales spikes and dips.
 Useful for forecasting demand.
 📈 Business Impact & Insights
+
 🚀 Operational Optimization
 
 Businesses can identify peak order periods and allocate delivery resources efficiently.
 
-🎯 Customer Preference Analysis
+🎯 **Customer Preference Analysis**
 
 Veg vs Non-Veg sales insights help improve menu planning and targeted promotions.
 
-🌍 Regional Growth Strategy
+🌍 **Regional Growth Strategy**
 
 City-wise sales analysis highlights high-performing markets for expansion and marketing investments.
 
-⭐ Customer Experience Monitoring
+⭐ **Customer Experience Monitoring**
 
 Average rating tracking helps evaluate service quality and customer satisfaction.
 
@@ -168,7 +171,7 @@ Average rating tracking helps evaluate service quality and customer satisfaction
 The dashboard transforms raw operational data into actionable business intelligence for stakeholders.
 
 🖼️ Screenshots / Demo
-📌 Dashboard Preview
+2026-05-08.png
 
 
 📚 **Key Learnings**
