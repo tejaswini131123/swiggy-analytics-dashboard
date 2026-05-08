@@ -86,6 +86,7 @@ Displays high-level business metrics:
 These KPIs provide an instant snapshot of overall business health.
 
 🔹 **Day & Month Selection Panel**
+
 Interactive slicers allow users to filter the entire dashboard by:
 
 Days of the week
@@ -95,6 +96,7 @@ Food categories
 
 This enables detailed time-based performance analysis.
 
+
 🔹 **Monthly Sales Trends** 
 
 Shows month-wise revenue growth and fluctuations across the year.
@@ -103,6 +105,8 @@ Insights:
 Identifies seasonal demand patterns.
 Helps track business growth over time.
 Detects high-performing months.
+
+
 🔹 **Sales Based on Food Type** 
 
 Compares sales contribution between:
@@ -119,6 +123,7 @@ Visualizes sales distribution across weekdays.
 Insights:
 Peak order activity observed during weekends.
 Useful for staffing and delivery planning.
+
 🔹**Top 5 City Sales**
 
 Highlights the highest revenue-generating cities such as:
@@ -131,6 +136,7 @@ Bengaluru
 Insights:
 Helps identify strong regional markets.
 Supports localized marketing campaigns.
+
 🔹 **Quarterly Performance Table**
 
 Displays quarter-wise:
@@ -141,16 +147,18 @@ Orders
 Insights:
 Tracks operational consistency.
 Helps compare quarterly business performance.
+
 🔹 **Weekly Sales Distribution**
 
 Shows detailed order/sales distribution patterns across multiple weeks.
 
 **Insights:**
+
 Detects sales spikes and dips.
 Useful for forecasting demand.
 📈 Business Impact & Insights
 
-🚀 Operational Optimization
+🚀 **Operational Optimization**
 
 Businesses can identify peak order periods and allocate delivery resources efficiently.
 
