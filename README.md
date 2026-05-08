@@ -180,7 +180,7 @@ The dashboard transforms raw operational data into actionable business intellige
 
 🖼️ **Screenshots** 
 
-![Swiggy Dashboard](https://github.com/tejaswini131123/swiggy-analytics-dashboard/commit/6584c0245e6cdf1d3f334b9f835e6de5ac5edad6)
+![Swiggy Dashboard](https://raw.githubusercontent.com/tejaswini131123/swiggy-analytics-dashboard/main/2026-05-08.png)
 
 
 📚 **Key Learnings**
