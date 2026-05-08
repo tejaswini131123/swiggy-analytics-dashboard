@@ -179,7 +179,7 @@ Average rating tracking helps evaluate service quality and customer satisfaction
 The dashboard transforms raw operational data into actionable business intelligence for stakeholders.
 
 🖼️ Screenshots / Demo
-2026-05-08.png
+https://github.com/tejaswini131123/swiggy-analytics-dashboard/commit/6584c0245e6cdf1d3f334b9f835e6de5ac5edad6
 
 
 📚 **Key Learnings**
